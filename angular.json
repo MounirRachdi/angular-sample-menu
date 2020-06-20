@@ -23,10 +23,10 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [  
-              "src/styles.scss",  
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"  
-            ],  
+            "styles": [
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ],
             "scripts": []
           },
           "configurations": {
@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "project1"
+    }
+  },
+  "defaultProject": "project1",
+  "cli": {
+    "analytics": "c7dbd991-3376-4556-9f8a-76b5773c6548"
+  }
 }
